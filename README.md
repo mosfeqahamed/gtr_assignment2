@@ -27,3 +27,5 @@ source env/bin/activate  # macOS/Linux
 env\Scripts\activate     # Windows
 
 pip install -r requirements.txt
+
+run python qa_system.py
